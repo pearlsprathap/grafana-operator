@@ -1,0 +1,6 @@
+apiVersion: socgen.org/v1 
+kind: Grafana 
+metadata: 
+  name: grafana-testing1
+spec: 
+    nodeport: 30087
